@@ -1,4 +1,4 @@
-## Hi, I'm Shafira Hasna Fauzi (Fira)
+### Hi, I'm Shafira Hasna Fauzi (Fira)
 
 Informatics student passionate about web development.
 Currently exploring ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) and ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
